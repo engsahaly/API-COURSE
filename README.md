@@ -2,7 +2,6 @@
 
 **Created By :** Mahmoud Anwar
 **Email :** Engsahaly@gmail.com
-**Phone :** +2-01000166099
 
 This is the main readme file for the Project files used in the API Course on Udemy
 
